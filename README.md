@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+| [1470-shuffle-the-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
