@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
