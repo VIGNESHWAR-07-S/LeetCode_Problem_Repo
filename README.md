@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
