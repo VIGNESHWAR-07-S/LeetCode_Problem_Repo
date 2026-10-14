@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
