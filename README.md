@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0704-binary-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
