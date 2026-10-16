@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1572-matrix-diagonal-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
@@ -96,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
