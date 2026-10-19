@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [2396-strictly-palindromic-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2396-strictly-palindromic-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
