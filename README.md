@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2396-strictly-palindromic-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2396-strictly-palindromic-number) |
@@ -141,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
