@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1812-determine-color-of-a-chessboard-square) |
