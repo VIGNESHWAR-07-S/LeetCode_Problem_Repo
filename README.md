@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0643-maximum-average-subarray-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
