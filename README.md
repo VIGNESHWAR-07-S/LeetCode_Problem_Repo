@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0643-maximum-average-subarray-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
