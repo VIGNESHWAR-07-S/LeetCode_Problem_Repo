@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2396-strictly-palindromic-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2409-count-days-spent-together) |
