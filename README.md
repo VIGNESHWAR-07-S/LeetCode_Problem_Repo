@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0643-maximum-average-subarray-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
