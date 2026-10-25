@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0704-binary-search) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0832-flipping-an-image) |
