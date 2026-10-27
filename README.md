@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0867-transpose-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
