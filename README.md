@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
 |  |
 | ------- |
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
