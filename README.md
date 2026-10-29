@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 ## Bucket Sort
 |  |
