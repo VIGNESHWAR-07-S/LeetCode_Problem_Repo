@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0867-transpose-matrix) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1252-cells-with-odd-values-in-a-matrix) |
