@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0125-valid-palindrome) |
 | [0832-flipping-an-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0832-flipping-an-image) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1768-merge-strings-alternately) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1108-defanging-an-ip-address) |
