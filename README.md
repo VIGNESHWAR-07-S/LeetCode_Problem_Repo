@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0412-fizz-buzz) |
