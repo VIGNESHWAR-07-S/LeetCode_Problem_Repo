@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0240-search-a-2d-matrix-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0832-flipping-an-image) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0347-top-k-frequent-elements) |
