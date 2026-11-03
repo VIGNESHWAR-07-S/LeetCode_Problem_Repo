@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
