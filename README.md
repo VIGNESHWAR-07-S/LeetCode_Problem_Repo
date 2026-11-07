@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
 |  |
