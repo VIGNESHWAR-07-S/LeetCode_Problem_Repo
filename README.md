@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0704-binary-search) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0561-array-partition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0561-array-partition) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
