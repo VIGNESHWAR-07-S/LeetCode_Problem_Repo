@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1075-project-employees-i](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1661-average-time-of-process-per-machine) |
