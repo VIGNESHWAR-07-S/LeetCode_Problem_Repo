@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0507-perfect-number) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
