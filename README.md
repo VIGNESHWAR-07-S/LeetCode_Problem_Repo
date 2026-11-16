@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Database
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
