@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3863-minimum-operations-to-sort-a-string) |
