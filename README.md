@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3360-stone-removal-game) |
 ## Database
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VIGNESHWAR-07-S/LeetCode_Problem_Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
